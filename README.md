@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rishabh Gupta</h1>
 <h3 align="center">I am Professional Android Developer :) also I have knowledge of Flutter Development, UI/UX Development or more. Ready to take any collaboration or invitation for builing new projects.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh4208&label=Profile%20views&color=0e75b6&style=flat" alt="rishabh4208" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh4208&label=Profile%20views&color=0e75b6&style=flat" alt="rishabh4208" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabh4208" alt="rishabh4208" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabh4208" alt="rishabh4208" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/rishabhgupta421" target="blank"><img src="https://img.shields.io/twitter/follow/rishabhgupta421?logo=twitter&style=for-the-badge" alt="rishabhgupta421" /></a> </p>
 
