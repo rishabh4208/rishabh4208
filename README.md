@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/rishabhgupta421" target="blank"><img src="https://img.shields.io/twitter/follow/rishabhgupta421?logo=twitter&style=for-the-badge" alt="rishabhgupta421" /></a> </p>
 
-- 🔭 I’m currently working on **a flutter project for paying consumer bills with ASP.net Backend.**
+- 🔭 I’m currently working on **a flutter project for paying consumer bills with Laravel Backend.**
 
-- 🌱 I’m currently learning **Laravel for Web APIs and Flutter Development**
+- 🌱 I’m currently learning **Laravel for Web APIs and Integration with Flutter Development**
 
 - 👯 I’m looking to collaborate on **App Development Projects.**
 
