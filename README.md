@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Gupta</h1>
-<h3 align="center">I am Professional Android Developer :) also I have knowledge of Flutter Development, UI/UX Development or more. Ready to take any collaboration or invitation for builing new projects.</h3>
+<h3 align="center">I am Android Developer :) also I have knowledge of Flutter Development, UI/UX Development or more. Ready to take any collaboration or invitation for building new projects.</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh4208&label=Profile%20views&color=0e75b6&style=flat" alt="rishabh4208" /> </p> -->
 
@@ -7,21 +7,21 @@
 
 <p align="left"> <a href="https://twitter.com/rishabhgupta421" target="blank"><img src="https://img.shields.io/twitter/follow/rishabhgupta421?logo=twitter&style=for-the-badge" alt="rishabhgupta421" /></a> </p>
 
-- 🔭 I’m currently working on **a flutter project for paying consumer bills with Laravel Backend.**
+- 🔭 I’m currently working on **a flutter project for consumer to pay bills with Laravel Backend.**
 
 - 🌱 I’m currently learning **Laravel for Web APIs and Integration with Flutter Development**
 
 - 👯 I’m looking to collaborate on **App Development Projects.**
 
-- 🤝 I’m looking for help with **Tips and Tricks for Mobile App Development to improve my productivity.**
+- 🤝 I’m looking for **Tips and Tricks for Mobile App Development to improve my productivity.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rishabh4208](https://github.com/rishabh4208)
+
+- 👨‍💻 Work Github Account: [https://github.com/rishabh-hk](https://github.com/rishabh-hk)
 
 - 💬 Ask me about **Android, Java**
 
 - 📫 How to reach me **rishabhgupta4208@gmail.com**
-
-- 📫 Work Github Account: **https://github.com/rishabh-hk**
 
 - 📄 Know about my experiences [www.apptechsolutions.in/](www.apptechsolutions.in/)
 
