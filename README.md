@@ -19,7 +19,7 @@
 
 - 👨‍💻 Work Github Account: [https://github.com/rishabh-hk](https://github.com/rishabh-hk)
 
-- 💬 Ask me about **Android, Java**
+- 💬 Ask me about **Android, Java, Flutter, Dart**
 
 - 📫 How to reach me **rishabhgupta4208@gmail.com**
 
